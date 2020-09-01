@@ -10,6 +10,14 @@ axes.edgecolor     : 4B4B4B
 font.family : serif
 font.serif : Bitstream Vera Serif, New Century Schoolbook, Century Schoolbook L, Utopia, ITC Bookman, Bookman, Nimbus Roman No9 L, Times New Roman, Times, Palatino, Charter, serif
 
+tex.usetex: True
+font.size: 10
+axes.labelsize: 10
+xtick.labelsize: 10
+ytick:labelsize: 10
+axes.titlesize: 12
+
+
 ## misc
 # do not use a frame on the legend
 legend.frameon       : False 
