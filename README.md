@@ -1,2 +1,2 @@
 # pytufte
-Edward Tufte style defaults for matplotlib
+Edward Tufte inspired style defaults for matplotlib
